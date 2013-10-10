@@ -1,0 +1,4 @@
+settings
+========
+
+Gigablue Channel Settings
